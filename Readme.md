@@ -1,3 +1,6 @@
+[![Node CI](https://github.com/opifexM/Kekstagram/actions/workflows/check.yml/badge.svg)](https://github.com/opifexM/Kekstagram/actions/workflows/check.yml)
+[![Maintainability](https://api.codeclimate.com/v1/badges/8067eede78ffecbdbab0/maintainability)](https://codeclimate.com/github/opifexM/Kekstagram/maintainability)
+
 # Kekstagram
 
 Kekstagram is a web application that allows users to view and edit images, apply filters, and manage comments. It's built using modern JavaScript features and techniques.
