@@ -1,4 +1,5 @@
 [![Node CI](https://github.com/opifexM/Kekstagram/actions/workflows/check.yml/badge.svg)](https://github.com/opifexM/Kekstagram/actions/workflows/check.yml)
+[![Qodana Code Quality](https://github.com/opifexM/Kekstagram/actions/workflows/qodana_code_quality.yml/badge.svg)](https://github.com/opifexM/Kekstagram/actions/workflows/qodana_code_quality.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/8067eede78ffecbdbab0/maintainability)](https://codeclimate.com/github/opifexM/Kekstagram/maintainability)
 
 # Kekstagram
