@@ -1,0 +1,10 @@
+export const bigPicture = document.querySelector('.big-picture');
+export const cancelButton = bigPicture.querySelector('.big-picture__cancel');
+export const image = bigPicture.querySelector('.big-picture__img img');
+export const socialCaption = bigPicture.querySelector('.social__caption');
+export const likesCount = bigPicture.querySelector('.likes-count');
+export const commentsCount = bigPicture.querySelector('.social__comment-count');
+export const comments = bigPicture.querySelector('.social__comments');
+export const templateComment = comments.querySelector('.social__comment');
+export const loadCommentButton = bigPicture.querySelector('.social__comments-loader');
+export const bodyElement = document.querySelector('body');

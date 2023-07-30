@@ -1,0 +1,2 @@
+export const PICTURE_SORT_BY_RANDOM_LIMIT = 10;
+export const PICTURE_SORT_FILTER_DELAY = 500;
