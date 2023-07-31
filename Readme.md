@@ -17,7 +17,7 @@ Kekstagram is a web application that allows users to view and edit images, apply
 
 ## Technologies
 
--   JavaScript (ES6+)
+-   JavaScript (ES)
 -   HTML5
 -   CSS3
 
